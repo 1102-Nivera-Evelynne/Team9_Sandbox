@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c911701dad95af847a79f006471a947e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271377
+  packageName: Interactive Piano VR
+  packageVersion: 1.0.1
+  assetPath: Assets/Beyond Limits Studio/Shared/Scripts/IgnoreCollision.cs
+  uploadId: 644147

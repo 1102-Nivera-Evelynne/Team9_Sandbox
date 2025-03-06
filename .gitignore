@@ -71,3 +71,14 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Ignore Unity Library, Logs, and Temp folders
+Library/
+Logs/
+Temp/
+obj/
+.vs/
+
+# Ignore Unity artifacts and cache files
+**/Bee/artifacts/
+**/PackageCache/
