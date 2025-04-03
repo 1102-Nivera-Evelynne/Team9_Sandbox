@@ -90,6 +90,32 @@ namespace BeyondLimitsStudios
                 }
 
                 /// <summary>
+                /// Detect when a finger touches the key.
+                /// </summary>
+                private void OnTriggerEnter(Collider other)
+                {
+                    if (other.CompareTag("Finger") && !isActivated) // Ensure it's a finger and not already activated
+                    {
+                        isActivated = true;
+                        onKeyPressed?.Invoke();
+                        connectedPiano?.onKeyPressed?.Invoke(note);
+                    }
+                }
+
+                /// <summary>
+                /// Detect when a finger leaves the key.
+                /// </summary>
+                private void OnTriggerExit(Collider other)
+                {
+                    if (other.CompareTag("Finger") && isActivated) // Ensure it's a finger leaving
+                    {
+                        isActivated = false;
+                        onKeyReleased?.Invoke();
+                        connectedPiano?.onKeyReleased?.Invoke(note);
+                    }
+                }
+
+                /// <summary>
                 /// This function is called from PianoVR and is used to assign primary and secondary audio sources.
                 /// </summary>
                 /// <param name="primaryAudioSource">First Audio Source.</param>
