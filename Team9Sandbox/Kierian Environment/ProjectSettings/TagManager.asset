@@ -12,7 +12,6 @@ TagManager:
   - 
   - Water
   - UI
-  - trees
   - 
   - 
   - 
@@ -37,6 +36,7 @@ TagManager:
   - 
   - 
   - 
+  - XR Simulation
   - 
   m_SortingLayers:
   - name: Default
