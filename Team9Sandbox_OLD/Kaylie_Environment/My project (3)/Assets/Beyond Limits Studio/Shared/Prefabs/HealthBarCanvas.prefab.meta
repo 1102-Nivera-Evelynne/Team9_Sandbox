@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b9da2e65fb65a9b4eb535e38ad6342df
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271377
+  packageName: Interactive Piano VR
+  packageVersion: 1.0.2
+  assetPath: Assets/Beyond Limits Studio/Shared/Prefabs/HealthBarCanvas.prefab
+  uploadId: 743034

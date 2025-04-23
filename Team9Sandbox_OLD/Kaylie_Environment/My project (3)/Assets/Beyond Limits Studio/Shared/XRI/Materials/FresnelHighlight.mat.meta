@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7598654f16258e74ea7f812096fb176a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271377
+  packageName: Interactive Piano VR
+  packageVersion: 1.0.2
+  assetPath: Assets/Beyond Limits Studio/Shared/XRI/Materials/FresnelHighlight.mat
+  uploadId: 743034

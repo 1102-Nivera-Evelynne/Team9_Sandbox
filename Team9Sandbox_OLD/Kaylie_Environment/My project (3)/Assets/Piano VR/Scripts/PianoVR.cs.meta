@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ccaf45967a3f68c4da5b4116efccd4d4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271377
+  packageName: Interactive Piano VR
+  packageVersion: 1.0.2
+  assetPath: Assets/Beyond Limits Studio/Musical Instruments VR/Piano VR/Scripts/PianoVR.cs
+  uploadId: 743034
