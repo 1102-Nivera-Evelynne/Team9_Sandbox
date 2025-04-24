@@ -1,2 +1,0 @@
-C:\Users\enive\cs481\Team9_Sandbox\Team9Sandbox\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
-C:\Users\enive\cs481\Team9_Sandbox\Team9Sandbox\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
