@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f6d6503a2863add43b73110dff250e7f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271377
+  packageName: Interactive Piano VR
+  packageVersion: 1.0.2
+  assetPath: Assets/Beyond Limits Studio/Musical Instruments VR/Piano VR/Models/Materials/PianoKeyWhite.mat
+  uploadId: 743034

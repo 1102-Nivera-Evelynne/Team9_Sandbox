@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eb5b063799648f647a4bfe4a60e94bfe
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271377
+  packageName: Interactive Piano VR
+  packageVersion: 1.0.2
+  assetPath: Assets/Beyond Limits Studio/Musical Instruments VR/Piano VR/Prefabs/Pianos/Static
+    Keyboard.prefab
+  uploadId: 743034

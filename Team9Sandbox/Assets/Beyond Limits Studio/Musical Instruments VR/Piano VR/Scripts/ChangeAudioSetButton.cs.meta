@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dbaa13028c866f64e9a8e76d2438fbfe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271377
+  packageName: Interactive Piano VR
+  packageVersion: 1.0.2
+  assetPath: Assets/Beyond Limits Studio/Musical Instruments VR/Piano VR/Scripts/ChangeAudioSetButton.cs
+  uploadId: 743034
