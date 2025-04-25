@@ -119,9 +119,24 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &20967360 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7211341016257159652, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &23791302 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640076114244607, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &41954772 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2934172271049595895, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &53746457 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8364354968114269781, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
   m_PrefabInstance: {fileID: 900549866}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &60773142
@@ -159,6 +174,26 @@ Transform:
   - {fileID: 1183881816}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &61916875 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2934172270639135274, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &62128994 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8364354966201559810, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &62604179 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7211341016029024155, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &71889585 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2934172270240469584, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &75744622
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -333,6 +368,16 @@ SphereCollider:
   serializedVersion: 3
   m_Radius: 0.002
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &87870387 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7211341014480226639, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &91749334 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8364354967712625834, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &92641028 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3133494152545806682, guid: 3f7511fbc40ae7a4b89c3298a3de199d, type: 3}
@@ -342,6 +387,26 @@ GameObject:
 Transform:
   m_CorrespondingSourceObject: {fileID: 2321527512367231968, guid: 3f7511fbc40ae7a4b89c3298a3de199d, type: 3}
   m_PrefabInstance: {fileID: 402783663}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &97446480 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2934172271196275682, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &102871642 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640075681901655, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &117402127 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7211341015262144304, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &128973077 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640075205036087, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &136466071
 GameObject:
@@ -385,6 +450,11 @@ GameObject:
 GameObject:
   m_CorrespondingSourceObject: {fileID: 657184242118504722, guid: d6878e1999eb4b44a9f5a263af86c185, type: 3}
   m_PrefabInstance: {fileID: 1947893220}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &164979514 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640075643820681, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &173428241
 GameObject:
@@ -745,6 +815,79 @@ MonoBehaviour:
   - {fileID: 327474003}
   - {fileID: 731713764}
   - {fileID: 334160531}
+  - {fileID: 62128994}
+  - {fileID: 102871642}
+  - {fileID: 1038699670}
+  - {fileID: 1611035873}
+  - {fileID: 97446480}
+  - {fileID: 896834063}
+  - {fileID: 2011108163}
+  - {fileID: 1509335918}
+  - {fileID: 1155171790}
+  - {fileID: 1966404750}
+  - {fileID: 1943678752}
+  - {fileID: 61916875}
+  - {fileID: 1628414044}
+  - {fileID: 1467315071}
+  - {fileID: 796286352}
+  - {fileID: 372033841}
+  - {fileID: 71889585}
+  - {fileID: 1834495442}
+  - {fileID: 1605056853}
+  - {fileID: 1049095310}
+  - {fileID: 598591639}
+  - {fileID: 2024874782}
+  - {fileID: 1744039179}
+  - {fileID: 1288304934}
+  - {fileID: 1306977518}
+  - {fileID: 1472442174}
+  - {fileID: 62604179}
+  - {fileID: 164979514}
+  - {fileID: 1576346496}
+  - {fileID: 1274985403}
+  - {fileID: 957337123}
+  - {fileID: 1976450562}
+  - {fileID: 1125891211}
+  - {fileID: 87870387}
+  - {fileID: 870188418}
+  - {fileID: 1467324158}
+  - {fileID: 487987254}
+  - {fileID: 337298951}
+  - {fileID: 966638472}
+  - {fileID: 1852854878}
+  - {fileID: 1159348688}
+  - {fileID: 345137173}
+  - {fileID: 1241870407}
+  - {fileID: 558512187}
+  - {fileID: 2057909965}
+  - {fileID: 663809020}
+  - {fileID: 850655433}
+  - {fileID: 855436049}
+  - {fileID: 91749334}
+  - {fileID: 23791302}
+  - {fileID: 1408711664}
+  - {fileID: 1831168692}
+  - {fileID: 943652107}
+  - {fileID: 969482121}
+  - {fileID: 595984376}
+  - {fileID: 1649633789}
+  - {fileID: 128973077}
+  - {fileID: 2001631525}
+  - {fileID: 857250098}
+  - {fileID: 450687575}
+  - {fileID: 343080394}
+  - {fileID: 1530303188}
+  - {fileID: 20967360}
+  - {fileID: 1099350990}
+  - {fileID: 392618860}
+  - {fileID: 53746457}
+  - {fileID: 1798498094}
+  - {fileID: 697147216}
+  - {fileID: 1497701634}
+  - {fileID: 117402127}
+  - {fileID: 530496063}
+  - {fileID: 1265962639}
+  - {fileID: 1897891643}
   resetDelay: 0.3
 --- !u!1001 &303729701
 PrefabInstance:
@@ -946,10 +1089,35 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 2934172270534189631, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
   m_PrefabInstance: {fileID: 900549866}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &337298951 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640074652321565, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &343080394 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8364354967553864601, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &345137173 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8364354966508158340, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &372033841 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640076420169183, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &392427967 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2609991494921256999, guid: d6878e1999eb4b44a9f5a263af86c185, type: 3}
   m_PrefabInstance: {fileID: 1947893220}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &392618860 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2934172269637868409, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &402783663
 PrefabInstance:
@@ -1126,6 +1294,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &450687575 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2934172270068770178, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &464572516 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8364354966780440952, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
@@ -1135,6 +1308,16 @@ GameObject:
 Transform:
   m_CorrespondingSourceObject: {fileID: 653873766723170089, guid: b3ed8a0a703ebd34a9e44ed3d9f1fcf6, type: 3}
   m_PrefabInstance: {fileID: 1125236248}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &487987254 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8364354967013015624, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &530496063 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640074658552849, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &544201477
 PrefabInstance:
@@ -1218,14 +1401,39 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1874342278553727276, guid: 4d2d0496dda24f7409661ecd31277752, type: 3}
   m_PrefabInstance: {fileID: 544201477}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &558512187 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7211341014505705371, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &581731296 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7211341015376051396, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
   m_PrefabInstance: {fileID: 900549866}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &595984376 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640074986063661, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &598591639 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640076758337069, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &663809020 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7211341015794324705, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &695863202 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2795640075518440514, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &697147216 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7211341016112495690, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
   m_PrefabInstance: {fileID: 900549866}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &714568148 stripped
@@ -1281,6 +1489,11 @@ Transform:
 Transform:
   m_CorrespondingSourceObject: {fileID: 3094800083807817888, guid: b3ed8a0a703ebd34a9e44ed3d9f1fcf6, type: 3}
   m_PrefabInstance: {fileID: 1125236248}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &796286352 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7211341014590253261, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &835474136
 PrefabInstance:
@@ -1347,6 +1560,31 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 05fafc301ace8d744a017cc14083801d, type: 3}
+--- !u!1 &850655433 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640076264615872, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &855436049 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2934172270729171296, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &857250098 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640075571174178, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &870188418 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640075490538094, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &896834063 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8364354966715635406, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &900549866
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1359,9 +1597,421 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.x
       value: 6.95
       objectReference: {fileID: 0}
+    - target: {fileID: 2584624606094697943, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584624606094697943, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584624606094697943, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 216433034}
+    - target: {fileID: 2584624606094697943, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584624606094697943, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: HighlightKey
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584624606094697943, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardColorMapper, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584624606094697943, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584624606094697943, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584624606222661753, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584624606222661753, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584624606222661753, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 216433034}
+    - target: {fileID: 2584624606222661753, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584624606222661753, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: HighlightKey
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584624606222661753, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardColorMapper, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584624606222661753, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584624606222661753, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584624606291754434, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584624606291754434, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584624606291754434, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 216433034}
+    - target: {fileID: 2584624606291754434, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584624606291754434, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: HighlightKey
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584624606291754434, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardColorMapper, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584624606291754434, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584624606291754434, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584624607517729539, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyReleased.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584624607517729539, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyReleased.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584624607517729539, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyReleased.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 216433034}
+    - target: {fileID: 2584624607517729539, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyReleased.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584624607517729539, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyReleased.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: HighlightKey
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584624607517729539, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyReleased.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardColorMapper, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584624607517729539, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyReleased.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584624607517729539, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyReleased.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 2947029042466559155, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254065898964468, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254065898964468, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254065898964468, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 216433034}
+    - target: {fileID: 3980254065898964468, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254065898964468, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: HighlightKey
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254065898964468, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardColorMapper, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254065898964468, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254065898964468, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254066045656545, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254066045656545, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254066045656545, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 216433034}
+    - target: {fileID: 3980254066045656545, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254066045656545, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: HighlightKey
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254066045656545, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardColorMapper, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254066045656545, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254066045656545, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254066413254712, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254066413254712, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254066413254712, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 216433034}
+    - target: {fileID: 3980254066413254712, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254066413254712, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: HighlightKey
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254066413254712, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardColorMapper, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254066413254712, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254066413254712, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254066602106925, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254066602106925, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254066602106925, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 216433034}
+    - target: {fileID: 3980254066602106925, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254066602106925, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: HighlightKey
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254066602106925, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardColorMapper, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254066602106925, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254066602106925, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254066612199310, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254066612199310, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254066612199310, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 216433034}
+    - target: {fileID: 3980254066612199310, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254066612199310, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: HighlightKey
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254066612199310, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardColorMapper, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980254066612199310, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657218994426276, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657218994426276, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657218994426276, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 216433034}
+    - target: {fileID: 4478657218994426276, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657218994426276, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: HighlightKey
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657218994426276, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardColorMapper, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657218994426276, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657218994426276, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657219577866348, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657219577866348, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657219577866348, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 216433034}
+    - target: {fileID: 4478657219577866348, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657219577866348, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: HighlightKey
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657219577866348, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardColorMapper, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657219577866348, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657219577866348, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657219628045259, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657219628045259, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657219628045259, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 216433034}
+    - target: {fileID: 4478657219628045259, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657219628045259, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: HighlightKey
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657219628045259, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardColorMapper, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657219628045259, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657219628045259, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657219657707641, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657219657707641, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657219657707641, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 216433034}
+    - target: {fileID: 4478657219657707641, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657219657707641, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: HighlightKey
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657219657707641, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardColorMapper, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657219657707641, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478657219657707641, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 4706505443141637573, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
       propertyPath: m_RootOrder
@@ -1410,6 +2060,262 @@ PrefabInstance:
     - target: {fileID: 5339876554465218431, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
       propertyPath: m_Name
       value: Kinematic Grand Piano
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736761834574626, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736761834574626, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736761834574626, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 216433034}
+    - target: {fileID: 6337736761834574626, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736761834574626, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: HighlightKey
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736761834574626, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardColorMapper, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736761834574626, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736761834574626, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736761992039746, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736761992039746, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736761992039746, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 216433034}
+    - target: {fileID: 6337736761992039746, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736761992039746, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: HighlightKey
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736761992039746, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardColorMapper, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736761992039746, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736761992039746, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762185538616, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762185538616, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762185538616, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 216433034}
+    - target: {fileID: 6337736762185538616, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762185538616, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: HighlightKey
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762185538616, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardColorMapper, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762185538616, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762185538616, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762417784778, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762417784778, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762417784778, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 216433034}
+    - target: {fileID: 6337736762417784778, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762417784778, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: HighlightKey
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762417784778, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardColorMapper, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762417784778, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762417784778, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762489208799, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762489208799, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762489208799, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 216433034}
+    - target: {fileID: 6337736762489208799, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762489208799, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: HighlightKey
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762489208799, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardColorMapper, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762489208799, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762489208799, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762558091053, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762558091053, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762558091053, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 216433034}
+    - target: {fileID: 6337736762558091053, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762558091053, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: HighlightKey
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762558091053, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardColorMapper, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762558091053, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736762558091053, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736763008745445, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736763008745445, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736763008745445, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 216433034}
+    - target: {fileID: 6337736763008745445, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736763008745445, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: HighlightKey
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736763008745445, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardColorMapper, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736763008745445, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736763008745445, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736763105290224, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736763105290224, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736763105290224, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 216433034}
+    - target: {fileID: 6337736763105290224, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736763105290224, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: HighlightKey
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736763105290224, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: KeyboardColorMapper, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736763105290224, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6337736763105290224, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+      propertyPath: onKeyPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 7890805453082974043, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1664,6 +2570,11 @@ MonoBehaviour:
   m_DebugDrawJoints: 1
   m_VelocityPrefab: {fileID: 8538602047018081646, guid: 629fd7882ec6bfc499a5fcf20035282b, type: 3}
   m_VelocityType: 2
+--- !u!1 &943652107 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2934172269478124618, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &944581974
 GameObject:
   m_ObjectHideFlags: 0
@@ -1699,6 +2610,26 @@ Transform:
   - {fileID: 92641029}
   m_Father: {fileID: 1085439597}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &957337123 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640075136118369, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &966638472 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7211341014650442293, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &969482121 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8364354967148104038, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1038699670 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7211341015311186303, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1048441849
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1770,6 +2701,11 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 773853689519989575, guid: b3ed8a0a703ebd34a9e44ed3d9f1fcf6, type: 3}
   m_PrefabInstance: {fileID: 1048441849}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1049095310 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7211341014567220579, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1085439595
 GameObject:
   m_ObjectHideFlags: 0
@@ -1820,6 +2756,11 @@ Transform:
   - {fileID: 944581975}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1099350990 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640074865456374, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1120474157
 GameObject:
   m_ObjectHideFlags: 0
@@ -2013,6 +2954,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 141466980049140221, guid: b3ed8a0a703ebd34a9e44ed3d9f1fcf6, type: 3}
   m_PrefabInstance: {fileID: 1125236248}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1125891211 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640075319304571, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1129608845
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2081,6 +3027,16 @@ PrefabInstance:
 --- !u!1 &1148526055 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2795640076138509432, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1155171790 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640075768977311, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1159348688 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2934172270179297448, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
   m_PrefabInstance: {fileID: 900549866}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1165138303
@@ -2537,10 +3493,30 @@ Transform:
   m_Children: []
   m_Father: {fileID: 60773143}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1241870407 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640075914392527, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1265962639 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2934172269122593457, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1274985403 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8364354967331577898, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1285305532 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 129824984984905013, guid: 3f7511fbc40ae7a4b89c3298a3de199d, type: 3}
   m_PrefabInstance: {fileID: 1649045472}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1288304934 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2934172270789634968, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1288609383
 GameObject:
@@ -2651,6 +3627,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 60773143}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1306977518 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8364354967866793446, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1362977974
 GameObject:
   m_ObjectHideFlags: 0
@@ -2907,6 +3888,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1874342278553727276, guid: 4d2d0496dda24f7409661ecd31277752, type: 3}
   m_PrefabInstance: {fileID: 1392457867}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1408711664 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7211341015879050967, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1419684959 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8364354966837448411, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
@@ -2981,6 +3967,36 @@ ReflectionProbe:
 Transform:
   m_CorrespondingSourceObject: {fileID: 4564316283654639424, guid: b3ed8a0a703ebd34a9e44ed3d9f1fcf6, type: 3}
   m_PrefabInstance: {fileID: 1125236248}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1467315071 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640074725047781, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1467324158 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2934172269887458510, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1472442174 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640076029336243, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1497701634 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640075095625476, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1509335918 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7211341015455851729, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1530303188 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640076258260172, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1532163554
 GameObject:
@@ -3090,6 +4106,26 @@ SphereCollider:
   serializedVersion: 3
   m_Radius: 0.002
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &1576346496 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2934172269397292294, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1605056853 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640075836426551, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1611035873 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640076000177261, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1628414044 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8364354967091247792, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1635102049 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2795640076654723216, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
@@ -3180,6 +4216,11 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 2321527512367231968, guid: 3f7511fbc40ae7a4b89c3298a3de199d, type: 3}
   m_PrefabInstance: {fileID: 1649045472}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1649633789 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7211341015952423801, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1654187236
 GameObject:
@@ -3547,6 +4588,11 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 1
+--- !u!1 &1744039179 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640076325066040, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1790357064
 GameObject:
   m_ObjectHideFlags: 0
@@ -3655,6 +4701,21 @@ SphereCollider:
   serializedVersion: 3
   m_Radius: 0.002
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &1798498094 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640075382063134, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1831168692 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640075561022405, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1834495442 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8364354966564145020, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1839601763
 GameObject:
   m_ObjectHideFlags: 0
@@ -3764,6 +4825,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1852854878 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640076480284455, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1873466606
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3890,6 +4956,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b1c1da50d0b721b4f8c1d5159fe03225, type: 3}
+--- !u!1 &1897891643 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3010631348352590930, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1903616236 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4762083549225478452, guid: b3ed8a0a703ebd34a9e44ed3d9f1fcf6, type: 3}
@@ -3898,6 +4969,11 @@ Transform:
 --- !u!1 &1938180083 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2934172270965301328, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1943678752 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640076208112778, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
   m_PrefabInstance: {fileID: 900549866}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1947893220
@@ -4046,10 +5122,40 @@ MonoBehaviour:
     m_MipBias: 0
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
+--- !u!1 &1966404750 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7211341016304074667, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1976450562 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7211341015804662325, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2001631525 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7211341014600851459, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2011108163 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640076558342277, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2024874782 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7211341015851642393, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &2032752607 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 708706760777700289, guid: b3ed8a0a703ebd34a9e44ed3d9f1fcf6, type: 3}
   m_PrefabInstance: {fileID: 1125236248}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2057909965 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2795640076702088405, guid: d4065cd55e2504c41ac335cccd0604bd, type: 3}
+  m_PrefabInstance: {fileID: 900549866}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2062949481
 PrefabInstance:

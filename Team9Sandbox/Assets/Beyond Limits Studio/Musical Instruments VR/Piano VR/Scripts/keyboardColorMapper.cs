@@ -37,6 +37,7 @@ public class KeyboardColorMapper : MonoBehaviour
         Renderer renderer = pianoKeys[keyIndex].GetComponent<Renderer>();
         if (renderer != null)
         {
+            Debug.Log("Key Pressed: " + keyIndex);
             // Hue: spread across all 88 keys
             float hue = (float)keyIndex / pianoKeys.Length;
 
