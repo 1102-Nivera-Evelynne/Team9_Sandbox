@@ -13,32 +13,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 2
---- !u!114 &-620817046376780758
-MonoBehaviour:
-  m_ObjectHideFlags: 11
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  version: 9
 --- !u!21 &2100000
 Material:
-  serializedVersion: 8
+  serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: 3_Rock
-  m_Shader: {fileID: 4800000, guid: fdc4dce8c7b6b294587f4b78d281d533, type: 3}
-  m_Parent: {fileID: 0}
-  m_ModifiedSerializedProperties: 0
-  m_ValidKeywords: []
-  m_InvalidKeywords: []
+  m_Shader: {fileID: 4800000, guid: 9eacab102e48d4b44969fef600718d5a, type: 3}
+  m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
@@ -48,7 +32,6 @@ Material:
   disabledShaderPasses:
   - MOTIONVECTORS
   - TransparentBackface
-  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -60,32 +43,12 @@ Material:
         m_Texture: {fileID: 2800000, guid: c31766923ee23b243a1b7cd794fad3a2, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - Texture2D_765FFB77:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - Texture2D_80E0543E:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - Texture2D_89561FC8:
         m_Texture: {fileID: 2800000, guid: e49671aa625ea574293c93739bc12da4, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - Texture2D_A080B943:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - Texture2D_C03E802E:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - Texture2D_D228F563:
         m_Texture: {fileID: 2800000, guid: b777ba184ffcb714685192a89975beb8, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - Texture2D_DAF5A168:
-        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
@@ -144,39 +107,18 @@ Material:
         m_Texture: {fileID: 2800000, guid: 07605a3ca342b0548a0fe281ecf157a7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - unity_Lightmaps:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - unity_LightmapsInd:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - unity_ShadowMasks:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    m_Ints: []
     m_Floats:
-    - Vector1_13662D4E: 0
     - Vector1_18A2DCD: 0.444
-    - Vector1_23F2460A: 0
     - Vector1_2A10E882: 3
     - Vector1_2E1BD0FC: 1
-    - Vector1_36FB1656: 0
     - Vector1_3DB47B20: 1.1
-    - Vector1_5D949AE5: 0
-    - Vector1_6DF822C9: 0
     - Vector1_737E06C1: 1
     - Vector1_7ECA40: 0.549
     - Vector1_8838B166: 0
-    - Vector1_8CCF76E8: 0
     - Vector1_8FC408F2: 3
     - Vector1_92EFBA: 1.5
     - Vector1_9A57CB38: 1
-    - Vector1_9ABBE641: 1
     - Vector1_C530437: 0.426
-    - Vector1_E19C4D09: 1
     - _AlphaCutoffEnable: 0
     - _AlphaDstBlend: 0
     - _AlphaSrcBlend: 1
@@ -204,8 +146,6 @@ Material:
     - _OcclusionPow: 1
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _QueueControl: 0
-    - _QueueOffset: 0
     - _ReceivesSSR: 1
     - _RenderQueueType: 1
     - _RequireSplitLighting: 0
@@ -246,10 +186,7 @@ Material:
     - _windStrengh: 1
     m_Colors:
     - Color_B59F147E: {r: 0.7264151, g: 0.7264151, b: 0.7264151, a: 1}
-    - Color_DBAE33CB: {r: 1, g: 1, b: 1, a: 0}
     - _Color: {r: 0.8396226, g: 0.7581667, b: 0.629717, a: 0.88235295}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _InternalColor: {r: 1, g: 1, b: 1, a: 1}
-  m_BuildTextureStacks: []
-  m_AllowLocking: 1
