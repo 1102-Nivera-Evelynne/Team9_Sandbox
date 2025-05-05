@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Beyond Limits Studio/Musical Instruments VR/Piano VR/Examples.unity
-    guid: 22992221eec04b9489413c19208e7b5a
+    path: Assets/Scenes/StartMenu.unity
+    guid: e1806f9a047730843a977c2d98a8f5de
+  - enabled: 1
+    path: Assets/Scenes/Alpha.unity
+    guid: dbd8fca1a5b31164b94a641398ce5898
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8ce377921c1521540952d2f621c330fb, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
