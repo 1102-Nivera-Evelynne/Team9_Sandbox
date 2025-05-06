@@ -16,4 +16,11 @@ public class MainMenu : MonoBehaviour
         menu.SetActive(false);
         envMenu.SetActive(true);
     }
+
+    public void StartGameDark()
+    {
+        //Uncomment these when scene is added
+       // SceneManager.LoadScene(2);
+       // SceneManager.UnloadSceneAsync(0);
+    }
 }
