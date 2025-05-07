@@ -26,14 +26,14 @@ public class MainMenu : MonoBehaviour
     public void StartGameDark()
     {
         //Uncomment these when scene is added
-       // SceneManager.LoadScene(2);
-       // SceneManager.UnloadSceneAsync(0);
+        SceneManager.LoadScene(2);
+        SceneManager.UnloadSceneAsync(0);
     }
 
     public void startTutorial()
     {
         //Uncomment these when scene is added
-        // SceneManager.LoadScene(3);
-        // SceneManager.UnloadSceneAsync(0);
+         SceneManager.LoadScene(3);
+         SceneManager.UnloadSceneAsync(0);
     }
 }
